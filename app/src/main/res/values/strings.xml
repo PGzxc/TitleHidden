@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TitleHidden</string>
+    <string name="appcompat_hidden_title">AppCompatActivity隐藏标题栏</string>
+    <string name="activity_hidden_title">普通Activity隐藏标题栏</string>
+    <string name="title_hidden_comm">通过style隐藏标题栏</string>
+    <string name="action_bar_hidden">通过代码隐藏状态栏</string>
+    <string name="full_screen">全屏</string>
+    <string name="navigation_hidden">NavigationBar隐藏</string>
+</resources>

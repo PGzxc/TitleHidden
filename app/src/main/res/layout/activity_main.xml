@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.titlehidden.MainActivity">
+
+    <Button
+        android:id="@+id/btn_appcompat_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/appcompat_hidden_title" />
+
+    <Button
+        android:id="@+id/btn_activity_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/activity_hidden_title" />
+
+    <Button
+        android:id="@+id/btn_title_hidden_comm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_hidden_comm" />
+
+    <Button
+        android:id="@+id/btn_actionbar_hidden1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/action_bar_hidden" />
+
+    <Button
+        android:id="@+id/btn_full_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/full_screen" />
+    <Button
+        android:id="@+id/btn_navigation_hidden"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/navigation_hidden" />
+</LinearLayout>
